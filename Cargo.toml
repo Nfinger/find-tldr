@@ -1,8 +1,12 @@
 [package]
-name = "find-tdlr"
+name = "find-tldr"
 version = "0.1.0"
 authors = ["natefinger"]
 edition = "2018"
+description="A function to extract tldr text from a block of text"
+repository = "https://github.com/Nfinger/find-tldr"
+keywords = ["tldr"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
